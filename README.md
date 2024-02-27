@@ -1,2 +1,2 @@
-# Stock_Market_Project
-In this project, a datset having the stock prices of 50 stocks from NIFTY was taken from kaggle, and cleaning, FE and EDA was performed on it using Pandas, Numpy, Matplotlib and Seaborn libraries. After that, a dashboard was created using PowerBI. 
+
+This project goes into the field of financial data analysis with our NIFTY Stock Analysis and Visualization Dashboard project. We begin by harnessing a comprehensive dataset comprising stock prices of 50 top-performing companies listed on the NIFTY index, sourced from Kaggle. Through a meticulous process, we meticulously clean, preprocess, and enrich the data using powerful Python libraries including Pandas, NumPy, Matplotlib, and Seaborn, setting the stage for insightful exploration.
